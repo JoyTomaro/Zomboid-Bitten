@@ -1,0 +1,9 @@
+UI_EN = {
+--------------------------------------
+Bitten Trait
+--------------------------------------
+
+    UI_trait_Bitten = "Bitten",
+    UI_trait_Bittendesc = "Your days are numbered... Better get to work",
+    
+}

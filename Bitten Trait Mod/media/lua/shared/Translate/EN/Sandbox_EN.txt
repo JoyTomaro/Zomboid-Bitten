@@ -1,0 +1,6 @@
+Sandbox_EN = {
+	Sandbox_TomaroBitten = "Bitten Trait",
+
+	Sandbox_TomaroBitten_BiteTime = "Bite Time",
+	Sandbox_TomaroBitten_BiteTime_tooltip = "Starting bite time for Bitten trait users.<br>Near Vanilla ~99.<br>Affected by first aid actions.",
+}

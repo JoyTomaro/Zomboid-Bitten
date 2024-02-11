@@ -1,0 +1,10 @@
+VERSION = 1,
+
+option TomaroBitten.BiteTime {
+	type = integer,
+	min = 99,
+	max = 9999,
+	default = 499,
+	page = TomaroBitten,
+	translation = TomaroBitten_BiteTime,
+}
